@@ -1,5 +1,6 @@
 # intern
-
+*This is assignment video link* 
+https://drive.google.com/file/d/1nfPCoFp2Ubw-qRY5j5QNy0mebstR63VN/view?usp=sharing
 
 Selenium Automation Project – Intervue.io Navigation & Login
 Project Overview
