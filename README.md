@@ -21,8 +21,7 @@ Before executing the script, ensure you have the following installed:
 Java JDK – Version 8 or above
 Download: https://www.oracle.com/java/technologies/javase-downloads.html
 
-Apache Maven (optional, if you're managing dependencies via Maven)
-Download: https://maven.apache.org/download.cgi
+
 
 Eclipse IDE or IntelliJ IDEA
 
@@ -33,7 +32,7 @@ Download: https://sites.google.com/a/chromium.org/chromedriver/downloads
 (Ensure it's added to your system PATH or specify path in your code)
 
 Selenium Java Library – Version 4.x
-Add via Maven (if using Maven) or manually include JARs:
+
 
 selenium-java
 
